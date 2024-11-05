@@ -11,9 +11,9 @@ I'm an undergrad CS student passionate about tech and turning ideas into reality
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS"></code>
 
 
 ### Frameworks/Technologies
